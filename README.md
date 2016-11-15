@@ -2,7 +2,7 @@
 Different scripts to do things with youtube using applescript
 
 
-How to get started: 
+## How to get started: 
 1) Start Automastor
 2) Select New from Menu bar
 3) Select Service
