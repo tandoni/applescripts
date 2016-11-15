@@ -3,7 +3,7 @@ Different scripts to do things with youtube using applescript
 
 
 ## How to get started: 
-1) Start Automastor<br />
+1) Start Automator<br />
 2) Select New from Menu bar<br />
 3) Select Service<br />
 4) Select "no input" from the first drop down and "any application" from the second<br />
