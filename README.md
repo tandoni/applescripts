@@ -1,4 +1,4 @@
-# applescripts
+# Applescripts
 Different scripts to do things with youtube using applescript
 
 
