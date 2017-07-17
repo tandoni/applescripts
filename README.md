@@ -8,7 +8,7 @@ Different scripts to do things with youtube using applescript
 3) Select Service<br />
 4) Select "no input" from the first drop down and "any application" from the second<br />
 5) Select "Run Applescript" from the list on the left<br />
-6) Copy and paste the Applescript<br />
+6) Get to coding :) . This is the best part.<br />
 7) Save<br />
 
 8) Open System Preferences and Select Keyboard<br />
