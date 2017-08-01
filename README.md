@@ -1,5 +1,5 @@
 # Applescripts
-Different scripts to do things with youtube using applescript
+Different scripts to do things with youtube and other applications
 
 
 ## How to get started: 
